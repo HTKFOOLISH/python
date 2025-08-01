@@ -1,6 +1,9 @@
-# Python for Beginner
+# Basic Python
+
+## Mục Lục
 
 - [Basic Python](#basic-python)
+  - [Mục Lục](#mục-lục)
   - [Python Syntax](#python-syntax)
   - [Python Indentation](#python-indentation)
   - [Comments](#comments)
@@ -17,8 +20,6 @@
     - [Exercise: Level 1](#exercise-level-1)
     - [Exercise: Level 2](#exercise-level-2)
     - [Exercise: Level 3](#exercise-level-3)
-
-# Basic Python
 
 ## Python Syntax
 
